@@ -9,7 +9,6 @@
     "start": "next start",
     "lint": "next lint",
     "test:unit": "vitest"
-    
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "2.2.5",
