@@ -90,13 +90,4 @@ pnpm test:e2e
 
 And it'll work!
 
-# Contributing
 
-For those who want to contribute, including running tests, please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
-
-<!-- # Install from scratch notes
-
-When adding Tailwind, remember to remove `supports-color` -->
-
-<!-- Testing: -->
-<!-- -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths -->
